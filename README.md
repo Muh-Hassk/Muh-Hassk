@@ -7,8 +7,9 @@
 
  How to reach me 📫 :
 
-Email : Moh.Alkhuzaee@gmail.com 🗃️
-Phone Number : +966544243748 📞
+Email : Moh.Alkhuzaee@gmail.com 🗃️.
+
+Phone Number : +966544243748 📞.
 <!--
 **Muh-Hassk/Muh-Hassk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
