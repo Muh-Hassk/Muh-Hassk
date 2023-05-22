@@ -1,5 +1,14 @@
-### Hi there 👋
 
+ Hi, I’m @Muh-Hassk 👋
+
+ I’m interested in Web Development , ML 👀
+
+ I’m currently learning Angular 🔋
+
+ How to reach me 📫 :
+
+Email : Moh.Alkhuzaee@gmail.com 🗃️
+Phone Number : +966544243748 📞
 <!--
 **Muh-Hassk/Muh-Hassk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
