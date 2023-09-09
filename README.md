@@ -1,9 +1,9 @@
 
  Hi, I’m @Muh-Hassk 👋
 
- I’m interested in Web Development , ML 👀
+ I’m interested in Web Development , Python 👀
 
- I’m currently learning Angular 🔋
+ I’m currently learning Django 🔋
 
  How to reach me 📫 :
 
