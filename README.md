@@ -3,7 +3,7 @@
 
  I’m interested in Web Development , Python 👀
 
- I’m currently learning Django 🔋
+ I’m currently learning .NET 🔋
 
  How to reach me 📫 :
 
